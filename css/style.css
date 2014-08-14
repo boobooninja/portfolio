@@ -114,6 +114,14 @@ nav a:hover{
 nav a#pull {
 	display: none;
 }
+
+/*.work-item a {
+	height: 450px;
+	img {
+		height: 80%;
+	}
+}
+*/
 /*Styles for screen 600px and lower*/
 @media screen and (max-width: 768px) {
 	nav {
@@ -418,6 +426,7 @@ ul.project-share{
 /*----contact----*/
 .contact{
 	padding: 2em 0;
+	background: white;
 }
 .contact h2{
 	font-size: 2em;
